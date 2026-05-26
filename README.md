@@ -9,7 +9,7 @@ Atividade prática de visualização 3D interativa usando **Three.js**, com mode
 | Campo       | Informação |
 |-------------|-----------|
 | **Nome**    | Simple Chair |
-| **Origem**  | [https://sketchfab.com](https://sketchfab.com) |
+| **Origem**  | [https://sketchfab.com/3d-models/simple-chair-0efe6f9479c044cda34265b75b067704] |
 | **Licença** | CC Attribution |
 | **Formato** | `.glb` (GLTF Binary) |
 
